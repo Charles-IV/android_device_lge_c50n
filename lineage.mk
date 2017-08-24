@@ -10,5 +10,5 @@ PRODUCT_NAME := lineage_c50n
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="c50n" \
     PRODUCT_NAME="c50n_global_com" \
-    BUILD_FINGERPRINT="lge/c50n_global_com/c50n:6.0/MRA58K/161761508b4d6:user/release-keys" \
-    PRIVATE_BUILD_DESC="c50n_global_com-user 6.0 MRA58K 161761508b4d6 release-keys"
+    BUILD_FINGERPRINT="lge/c50n_global_com/c50n:6.0/MRA58K/161412114d36a:user/release-keys" \
+    PRIVATE_BUILD_DESC="c50n_global_com-user 6.0 MRA58K 161412114d36a release-keys"
