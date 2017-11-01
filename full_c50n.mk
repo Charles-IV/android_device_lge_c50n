@@ -23,6 +23,6 @@ $(call inherit-product, device/lge/c50n/device.mk)
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := c50n
 PRODUCT_NAME := full_c50n
-PRODUCT_BRAND := lge
-PRODUCT_MODEL := LGC50n
+PRODUCT_BRAND := LG
+PRODUCT_MODEL := LG Leon
 PRODUCT_MANUFACTURER := LGE
